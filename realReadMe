@@ -2,3 +2,4 @@ This program traverses a BST and:
   1) checks to see if it is a reflection of the other
   2) creates a reflection of the other
   3) Checks if they are the same
+  4) Checks if A and B are Kindred Spirits (Preorder traversal of A is the Post-order of B)
